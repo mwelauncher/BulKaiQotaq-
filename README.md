@@ -34,6 +34,6 @@ BulKaiQotak? - это приложение на Windows для анализа в
 **⚠️Instagram уведомит вас, когда файлы будут готовы — обычно в течение нескольких минут или 2 дней. После этого скачайте ZIP-архив и откройте его в приложении.**
 
 
-
+# TUTORIAL: HOW GET A JSON FILE
 
 <img alt="Tutorial.gif" data-hpc="true" src="https://github.com/mwelauncher/BulKaiQotaq-/blob/main/Tutorial.gif?raw=true" style="max-width: 100%;">
